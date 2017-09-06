@@ -10,7 +10,12 @@ that you have the most up-to-date version of the repository.
 Week 2: Command Line/Encryption (30 minute introduction to Kali)
   * In Class
     - Review of important command line commands and their use in cyber security
+      - See Command line Cheat Sheet handed out in class
     - Overview of encryption
+      - Hexadecimal 
+      - Shift Cyphers
+      - Base 64
+      - Substution Cypher 
     - 30 minute intro to installing Kali and why it's important for the competition
   * Homework
     - Install Kali on either a partition on your hard drive, a bootable USB, or replace your operating system with it, have it       ready to go by the beginning of next week
