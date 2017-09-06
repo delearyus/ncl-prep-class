@@ -21,11 +21,17 @@ Week 3: Kali Day!
   * In Class
     - Debugging of everyone's Kali interfaces
     - Introductions to the fun shit 
+
 Week 4: Tools + Resources
+
 Week 5: Networking
+
 Week 6: Web Stuff
+
 Week 7: Databases
+
 Week 8: Log Analysis
+
 Week 9/10: Gyms and Review
 
-COMPETITION: 11/3 - 11/5
+--COMPETITION: 11/3 - 11/5
