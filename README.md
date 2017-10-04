@@ -7,7 +7,7 @@ that you have the most up-to-date version of the repository.
 
 # Syllabus! #
 
-Week 2: Command Line/Encryption (30 minute introduction to Kali)
+Week 2 (9/6): Command Line/Encryption (30 minute introduction to Kali)
   * In Class
     - Review of important command line commands and their use in cyber security
       - See Command line Cheat Sheet handed out in class
@@ -22,21 +22,21 @@ Week 2: Command Line/Encryption (30 minute introduction to Kali)
     
     **Find other people in class if you have questions about the install process**
     
-Week 3: Kali Day!
+Week 3 (9/13): Kali Day!
   * In Class
     - Debugging of everyone's Kali interfaces
     - Introductions to the fun shit 
 
-Week 4: Tools + Resources
+Week 4 (9/20): Tools + Resources
 
-Week 5: Networking
+Week 5 (9/27): Networking
 
-Week 6: Web Stuff
+Week 6 (10/4): Web Stuff
 
-Week 7: Databases
+Week 7 (10/11): Databases/Log Analysis (Guest Speaker: Casey Feskens)
 
-Week 8: Log Analysis
+Week 8 (10/18): Binary Exploitation (Guest Speaker: Alden Vanderspek)
 
-Week 9/10: Gyms and Review
+Week 9/10 (10/25, 11/1): Gyms and Review
 
 --COMPETITION: 11/3 - 11/5
