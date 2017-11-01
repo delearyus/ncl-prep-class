@@ -1,0 +1,13 @@
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:b5:d3:b2
+Sending on   LPF/eth0/52:54:00:b5:d3:b2
+Sending on   Socket/fallback
+DHCPDISCOVER on eth0 to 255.255.255.255 port 67 interval 3 (xid=0x6d8d54d4)
+DHCPREQUEST of 10.0.6.47 on eth0 to 255.255.255.255 port 67 (xid=0x6d8d54d4)
+DHCPOFFER of 10.0.6.47 from 10.0.0.1
+DHCPACK of 10.0.6.47 from 10.0.0.1
+bound to 10.0.6.47 -- renewal in 3450 seconds.

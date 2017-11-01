@@ -1,0 +1,11 @@
+Internet Systems Consortium DHCP Client 4.2.4
+Copyright 2004-2012 Internet Systems Consortium.
+All rights reserved.
+For info, please visit https://www.isc.org/software/dhcp/
+
+Listening on LPF/eth0/52:54:00:59:2e:f8
+Sending on   LPF/eth0/52:54:00:59:2e:f8
+Sending on   Socket/fallback
+DHCPRELEASE on eth0 to 192.168.32.0 port 67 (xid=0x1f35b875)
+Cannot find device "eth1"
+Failed to bring up eth1.

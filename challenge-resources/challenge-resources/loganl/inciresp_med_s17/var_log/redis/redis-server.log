@@ -1,0 +1,24 @@
+[971] 15 Apr 13:46:50.309 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[971] 15 Apr 13:46:50.309 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[985] 15 Apr 13:46:50.373 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[985] 15 Apr 13:46:50.373 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1008] 15 Apr 13:46:50.443 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1008] 15 Apr 13:46:50.444 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1011] 15 Apr 13:46:50.450 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1011] 15 Apr 13:46:50.450 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1024] 15 Apr 13:46:50.494 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1024] 15 Apr 13:46:50.494 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1036] 15 Apr 13:46:50.521 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1036] 15 Apr 13:46:50.521 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1041] 15 Apr 13:46:50.548 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1041] 15 Apr 13:46:50.548 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1053] 15 Apr 13:46:50.574 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1053] 15 Apr 13:46:50.574 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1058] 15 Apr 13:46:50.595 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1058] 15 Apr 13:46:50.595 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1062] 15 Apr 13:46:50.618 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1062] 15 Apr 13:46:50.618 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1066] 15 Apr 13:46:50.648 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1066] 15 Apr 13:46:50.648 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address
+[1070] 15 Apr 13:46:50.673 # Unable to set the max number of files limit to 10032 (Operation not permitted), setting the max clients configuration to 3984.
+[1070] 15 Apr 13:46:50.673 # Creating Server TCP listening socket 192.168.0.3:6379: bind: Cannot assign requested address

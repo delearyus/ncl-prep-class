@@ -1,0 +1,81 @@
+Apr  3 06:50:39 ubuntu-host CRON[3739]: pam_unix(cron:session): session closed for user root
+Apr  3 07:17:01 ubuntu-host CRON[4023]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 07:17:01 ubuntu-host CRON[4023]: pam_unix(cron:session): session closed for user root
+Apr  3 08:17:01 ubuntu-host CRON[4026]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 08:17:01 ubuntu-host CRON[4026]: pam_unix(cron:session): session closed for user root
+Apr  3 09:17:01 ubuntu-host CRON[4029]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 09:17:01 ubuntu-host CRON[4029]: pam_unix(cron:session): session closed for user root
+Apr  3 10:17:01 ubuntu-host CRON[4032]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 10:17:01 ubuntu-host CRON[4032]: pam_unix(cron:session): session closed for user root
+Apr  3 11:17:01 ubuntu-host CRON[4035]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 11:17:01 ubuntu-host CRON[4035]: pam_unix(cron:session): session closed for user root
+Apr  3 12:17:01 ubuntu-host CRON[4038]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 12:17:01 ubuntu-host CRON[4038]: pam_unix(cron:session): session closed for user root
+Apr  3 13:17:01 ubuntu-host CRON[4041]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 13:17:01 ubuntu-host CRON[4041]: pam_unix(cron:session): session closed for user root
+Apr  3 14:17:01 ubuntu-host CRON[4044]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 14:17:01 ubuntu-host CRON[4044]: pam_unix(cron:session): session closed for user root
+Apr  3 15:17:01 ubuntu-host CRON[4047]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 15:17:01 ubuntu-host CRON[4047]: pam_unix(cron:session): session closed for user root
+Apr  3 16:17:01 ubuntu-host CRON[4050]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 16:17:01 ubuntu-host CRON[4050]: pam_unix(cron:session): session closed for user root
+Apr  3 17:17:02 ubuntu-host CRON[4053]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 17:17:02 ubuntu-host CRON[4053]: pam_unix(cron:session): session closed for user root
+Apr  3 18:17:01 ubuntu-host CRON[4056]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 18:17:01 ubuntu-host CRON[4056]: pam_unix(cron:session): session closed for user root
+Apr  3 19:17:01 ubuntu-host CRON[4059]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 19:17:01 ubuntu-host CRON[4059]: pam_unix(cron:session): session closed for user root
+Apr  3 20:17:01 ubuntu-host CRON[4062]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 20:17:01 ubuntu-host CRON[4062]: pam_unix(cron:session): session closed for user root
+Apr  3 21:17:01 ubuntu-host CRON[4065]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 21:17:01 ubuntu-host CRON[4065]: pam_unix(cron:session): session closed for user root
+Apr  3 22:17:01 ubuntu-host CRON[4068]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 22:17:01 ubuntu-host CRON[4068]: pam_unix(cron:session): session closed for user root
+Apr  3 23:17:01 ubuntu-host CRON[4071]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  3 23:17:01 ubuntu-host CRON[4071]: pam_unix(cron:session): session closed for user root
+Apr  4 00:17:01 ubuntu-host CRON[4074]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 00:17:01 ubuntu-host CRON[4074]: pam_unix(cron:session): session closed for user root
+Apr  4 01:17:01 ubuntu-host CRON[4077]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 01:17:01 ubuntu-host CRON[4077]: pam_unix(cron:session): session closed for user root
+Apr  4 02:17:01 ubuntu-host CRON[4080]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 02:17:01 ubuntu-host CRON[4080]: pam_unix(cron:session): session closed for user root
+Apr  4 03:17:01 ubuntu-host CRON[4083]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 03:17:01 ubuntu-host CRON[4083]: pam_unix(cron:session): session closed for user root
+Apr  4 04:17:01 ubuntu-host CRON[4086]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 04:17:01 ubuntu-host CRON[4086]: pam_unix(cron:session): session closed for user root
+Apr  4 05:17:01 ubuntu-host CRON[4089]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 05:17:01 ubuntu-host CRON[4089]: pam_unix(cron:session): session closed for user root
+Apr  4 06:17:01 ubuntu-host CRON[4092]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 06:17:01 ubuntu-host CRON[4092]: pam_unix(cron:session): session closed for user root
+Apr  4 06:25:01 ubuntu-host CRON[4095]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 06:48:14 ubuntu-host CRON[4095]: pam_unix(cron:session): session closed for user root
+Apr  4 07:17:01 ubuntu-host CRON[4264]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 07:17:01 ubuntu-host CRON[4264]: pam_unix(cron:session): session closed for user root
+Apr  4 08:17:01 ubuntu-host CRON[4267]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 08:17:01 ubuntu-host CRON[4267]: pam_unix(cron:session): session closed for user root
+Apr  4 09:17:01 ubuntu-host CRON[4270]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 09:17:01 ubuntu-host CRON[4270]: pam_unix(cron:session): session closed for user root
+Apr  4 10:17:01 ubuntu-host CRON[4273]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 10:17:01 ubuntu-host CRON[4273]: pam_unix(cron:session): session closed for user root
+Apr  4 11:17:01 ubuntu-host CRON[4276]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 11:17:01 ubuntu-host CRON[4276]: pam_unix(cron:session): session closed for user root
+Apr  4 12:17:01 ubuntu-host CRON[4279]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 12:17:01 ubuntu-host CRON[4279]: pam_unix(cron:session): session closed for user root
+Apr  4 13:17:01 ubuntu-host CRON[4282]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 13:17:01 ubuntu-host CRON[4282]: pam_unix(cron:session): session closed for user root
+Apr  4 14:17:01 ubuntu-host CRON[4285]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 14:17:01 ubuntu-host CRON[4285]: pam_unix(cron:session): session closed for user root
+Apr  4 15:17:01 ubuntu-host CRON[4288]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 15:17:01 ubuntu-host CRON[4288]: pam_unix(cron:session): session closed for user root
+Apr  4 16:17:01 ubuntu-host CRON[4291]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 16:17:01 ubuntu-host CRON[4291]: pam_unix(cron:session): session closed for user root
+Apr  4 17:17:01 ubuntu-host CRON[4294]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 17:17:01 ubuntu-host CRON[4294]: pam_unix(cron:session): session closed for user root
+Apr  4 18:17:01 ubuntu-host CRON[4297]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 18:17:01 ubuntu-host CRON[4297]: pam_unix(cron:session): session closed for user root
+Apr  4 19:17:01 ubuntu-host CRON[4300]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 19:17:01 ubuntu-host CRON[4300]: pam_unix(cron:session): session closed for user root
+Apr  4 20:17:01 ubuntu-host CRON[4303]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 20:17:01 ubuntu-host CRON[4303]: pam_unix(cron:session): session closed for user root
+Apr  4 21:17:01 ubuntu-host CRON[4306]: pam_unix(cron:session): session opened for user root by (uid=0)
+Apr  4 21:17:01 ubuntu-host CRON[4306]: pam_unix(cron:session): session closed for user root

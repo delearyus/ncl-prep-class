@@ -1,0 +1,3 @@
+[Sun Apr 03 06:50:39.598809 2016] [mpm_event:notice] [pid 1116:tid 140195842946944] AH00489: Apache/2.4.7 (Ubuntu) configured -- resuming normal operations
+[Sun Apr 03 06:50:39.598837 2016] [core:notice] [pid 1116:tid 140195842946944] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Apr 04 22:14:13.844567 2016] [mpm_event:notice] [pid 1116:tid 140195842946944] AH00491: caught SIGTERM, shutting down

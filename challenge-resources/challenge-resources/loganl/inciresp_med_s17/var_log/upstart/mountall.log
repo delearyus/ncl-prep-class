@@ -1,0 +1,4 @@
+fsck from util-linux 2.20.1
+fsck from util-linux 2.20.1
+/dev/mapper/ubuntu--host--vg-root: clean, 65940/441504 files, 396742/1764352 blocks
+/dev/sda1: clean, 299/62248 files, 47195/248832 blocks
