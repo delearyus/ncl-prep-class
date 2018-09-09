@@ -1,0 +1,8 @@
+Q1/2: First Succesful Login/how many logins:
+    cat file | grep 'LOGIN' | grep -i ((ASK PEOPLE FOR SUGGESTIONS))
+        grep -i 'ok' 
+Q3: How Many Successful Logins:
+    cat file | grep 'OK UPLOAD' | wc -l
+Q4: bytes Downloaded from server:
+    cat file | grep 'OK DOWNLOAD' | awk '{print $14}' | awk '{x+=$0} END {print x}'
+
