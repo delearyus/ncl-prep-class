@@ -2,21 +2,19 @@ import sys
 
 def verify(guess):
     vals = [
-        74,
-        79,
-        73,
-        78,
-        32,
-        85,
         83,
-        32,
-        73,
-        78,
-        32,
-        70,
+        75,
+        89,
+        45,
         79,
         82,
-        68
+        68,
+        83,
+        45,
+        55,
+        57,
+        50,
+        54
     ]
 
     for i, c in enumerate(guess):
@@ -34,4 +32,4 @@ guess = raw_input("Enter your guess: ");
 if verify(guess):
     print "That's correct!"
 else:
-    print "Wrong."
+    print "Try Again."
