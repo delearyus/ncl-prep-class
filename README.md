@@ -7,6 +7,15 @@ that you have the most up-to-date version of the repository.
 
 # Syllabus! #
 
+Week 1 (9/11): Introduction to the NCL and Various Challenges 
+  * In Class
+    - What is the NCL? Why the NCL? How does the competition work?
+      - Schedule and time commitment
+    - How we organize the material
+    - Buffet of short examples from the competition
+  * Homework
+    - Create a Github account, give us your username so we can add you to the repository, and upload a quick introduction of yourself with your name, past cyber security experience, and what you're excited to learn. 
+___________________
 Week 2 (9/6): Command Line/Encryption (30 minute introduction to Kali)
   * In Class
     - Review of important command line commands and their use in cyber security
