@@ -1,0 +1,50 @@
+open pcap in wireshark
+Q1: just gotta know the tool
+    this ones looking for a tool that makes requests to various ports to
+    decide which ones are available to check out
+    it's nmap
+Q2: how many hosts responded to scan
+    look at the frames (request/reply)
+    request contains ip of host making request
+    what's ip? think of it like a computers phone number
+    if you wanna know in more detail, google it
+    filter> ip.dst == 192.168.22.3 && icmp
+    export packet dissections as plain text (under file tab)
+    cat file | grep reply | awk '{print $3}' | awk '!x[$0]++' | (optional) wc -l
+    answer is 7
+Q3:IP address that had a VNC running?
+    back to wireshark
+    what is vnc? Virtual Network computing- used to remotely control another computer
+    wireshark detects vnc as a protocol, so you can just type vnc into filter
+    there looks to be multiple ip sources, but it just asked for one so
+    go with the first: 192.168.30.65
+Q4:Which ip address had a mail server?
+    this is one of those things you'd probably have to google a bit
+    to figure out wtf is up kyle
+    but we're being nice and just showing you through today SO!
+    Simple Mail Transfer Protocol (or SMTP,for short) is a
+    basic way to, you know, transfer mail
+    SMTP is a recognised protocol for wireshark, so just.. filter for it
+    we know that 192.168.22.3 is the nmap scan, so the other address must be running it
+    ans: 192.168.31.94
+Q5: What's the target subnet in CIDR notation?
+    what's a subnet? to continue the phone number analogy,
+    a subnet is like an office building, where you can have a bunch of diff
+    phones (front desk, departments, specific offices), but they're all
+    essentially going to the same place
+    CIDR notation is a way of listing all the phones that belong to the office
+    We don't have time to explain how CIDR notation work, but feel free to look it up
+    for today, we're gonna use a calculator site: https://www.ipaddressguide.com/cidr
+    open file exported from Q2
+    cat file | awk '{print $3}' | grep -P '\d{1,3}\.' (this is regex, which you use to find elements that match a pattern) | awk '!x[$0]++' | sort -n
+    as you can see, we got a lot of ips that weren't on our og list 
+    the lowest on the list is the scanning ip, so we know to not include that one
+    the second lowest is 192.168.30.0, so put that in the first box
+    the highest takes a little searching, but ips dont go above 255
+    (there's 256 total for each block, but since it start at 0, you -1)
+    we can see there's 30 and 31, so look for the highest one in 31
+    (it's 255)
+    type the ip into the second box 192.168.31.255
+    calculate the subnet
+    badda bing badda boom
+    ans is 192.168.30.0/23
